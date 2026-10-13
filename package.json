@@ -2,6 +2,21 @@
   "name": "my-first-tool",
   "version": "0.1.0",
   "private": true,
+  "description": "The first app I ever built and shipped — a minimal Next.js starter deployed to Vercel, Day 2 of a 90-day build challenge.",
+  "homepage": "https://my-first-tool-six.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhaoXie/my-first-tool.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "first-project",
+    "learning-in-public"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
